@@ -21,4 +21,4 @@
 
 目前由Web组进行维护
 
-有任何问题可以发邮件咨询维护人 <lukewei0125@foxmail.com>
+有任何问题可以发邮件咨询 维护人 <lukewei0125@foxmail.com>
