@@ -4,8 +4,6 @@ comments: true
 
 # Git 和 GitHub 基本操作指南
 
-!!! meta "贡献者: [luke](https://github.com/BlackBear2003) at 2023-09-25"
-
 
 ## 1. 介绍
 

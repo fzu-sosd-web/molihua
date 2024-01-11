@@ -22,6 +22,9 @@ nav:
     - interview/README.md
 
 extra:
+  analytics:
+    provider: google
+    property: G-FXMGVHJBB4
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Fzu-SOSD-Lab/molihua
