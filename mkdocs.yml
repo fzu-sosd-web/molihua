@@ -14,6 +14,8 @@ nav:
       - '说在前面': guide/git/before.md
       - '基础篇': guide/git/basic.md
       - 'git常用操作': guide/git/ops.md
+    - 移动开发学习:
+      - '大概': guide/mobile/README.md
   - 计算机内功: 
     - cs-internal/README.md
   - 面试经验: 
