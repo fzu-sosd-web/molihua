@@ -19,6 +19,11 @@ nav:
       - '大概': guide/mobile/README.md
   - 计算机内功: 
     - cs-internal/README.md
+  - 技术博客:
+    - dev-blog/README.md
+    - 'open-telemetry':
+      - "luke's research": dev-blog/open-telemetry/research-20240112.md
+
   - 面试经验: 
     - interview/README.md
 
