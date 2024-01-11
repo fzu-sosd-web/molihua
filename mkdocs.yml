@@ -1,0 +1,89 @@
+site_name: '茉莉花molihua'
+site_author: sosd-luke
+site_description: 'molihua-SOSD的知识分享平台'
+# Repository
+repo_name: Fzu-SOSD-Lab/molihua
+repo_url: https://github.com/Fzu-SOSD-Lab/molihua
+
+nav:
+  - molihua: index.md
+  - 关于我们: about.md
+  - 学习路线: 
+    - guide/README.md
+    - git学习:
+      - '说在前面': guide/git/before.md
+      - '基础篇': guide/git/basic.md
+      - 'git常用操作': guide/git/ops.md
+  - 计算机内功: 
+    - cs-internal/index.md
+  - 面试经验: 
+    - interview/index.md
+
+theme:
+  logo: 'assets/logo-white.png'
+  favicon: 'assets/icon.png'
+  name: material
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+    - java
+    - bash
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: "teal"
+      scheme: default
+      accent: "orange"
+      toggle:
+        icon: material/weather-night
+        name: 暗色模式
+    - media: "(prefers-color-scheme: dark)"
+      primary: "black"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 亮色模式
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - toc.follow
+    - content.action.edit
+    - navigation.footer
+    - navigation.path
+    - navigation.top
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition #MkDocs 警告框
+  - footnotes #脚注
+  - meta #自定义文章元数据
+  - pymdownx.caret #下划线
+  - pymdownx.mark #文本高亮
+  - pymdownx.tilde #删除线
+  - toc: # 大纲
+      permalink: true
+
+plugins:
+  - git-authors
