@@ -16,15 +16,7 @@ molihua(茉莉花)原本是SOSD内网的一个wiki知识库系统，是我们内
 
 molihua会是什么样的，取决于大家，非常欢迎大家加入我们，共同维护这个平台。
 
-!!! question "如何参与？" 
-
-首先你需要大概了解我们使用的[开源docs框架](https://squidfunk.github.io/mkdocs-material/setup/)，然后你可能需要掌握基本的git工作流程，使用pr提交你分享的宝贵的知识。[仓库地址](https://github.com/Fzu-SOSD-Lab/molihua)
-
-!!! question "不会使用git || 不会这个docs框架？" 
-  
-没关系，你可以在[关于我们](./about.md)找到我们实验室维护这个平台的同学的邮箱，发送你的诉求，我们会帮你进行相关的操作。
-
-!!! success "如果你觉得molihua不错，欢迎在github上给我们点个star哦 [star](https://github.com/Fzu-SOSD-Lab/molihua)" 
+[https://fzu-sosd-lab.github.io/molihua/](https://fzu-sosd-lab.github.io/molihua/)
 
 ## 贡献者
 <a href="https://github.com/Fzu-SOSD-Lab/molihua/graphs/contributors">

@@ -6,7 +6,7 @@ repo_name: Fzu-SOSD-Lab/molihua
 repo_url: https://github.com/Fzu-SOSD-Lab/molihua
 
 nav:
-  - molihua: index.md
+  - 'molihua': index.md
   - 关于我们: about.md
   - 学习路线: 
     - guide/README.md
@@ -15,11 +15,23 @@ nav:
       - '基础篇': guide/git/basic.md
       - 'git常用操作': guide/git/ops.md
   - 计算机内功: 
-    - cs-internal/index.md
+    - cs-internal/README.md
   - 面试经验: 
-    - interview/index.md
+    - interview/README.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Fzu-SOSD-Lab/molihua
+    - icon: fontawesome/brands/chrome
+      link: https://sosd.creatorsn.com/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<lukewei0125@foxmail.com>
 
 theme:
+  font:
+    text: Roboto
+    code: Roboto Mono
   logo: 'assets/logo-white.png'
   favicon: 'assets/icon.png'
   name: material
@@ -55,6 +67,9 @@ theme:
     - navigation.footer
     - navigation.path
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
   icon:
     admonition:
       note: octicons/tag-16
@@ -86,6 +101,7 @@ markdown_extensions:
       permalink: true
 
 plugins:
+  - search
   - git-committers:
       repository: Fzu-SOSD-Lab/molihua
       branch: main
