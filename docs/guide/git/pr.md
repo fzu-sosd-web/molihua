@@ -1,11 +1,11 @@
 # 添加你的名片！
 
-任务要求：在 https://github.com/Fzu-SOSD-Lab/git-lab/lab1/ 文件夹下添加你的电子名片
+任务要求：在 `https://github.com/Fzu-SOSD-Lab/git-lab/` 的lab1文件夹下添加你的电子名片
 
 名片格式：可以参考[我的名片](https://github.com/Fzu-SOSD-Lab/git-lab/blob/main/lab1/luke.md)
 
 
-!!! question "那么如何添加到我们的仓库呢？"
+!!! question "那么如何把你的名片添加到我们的仓库呢？"
 
 # 如何在 GitHub 上提交 Pull Request
 
