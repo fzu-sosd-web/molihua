@@ -1,0 +1,22 @@
+name: ci on Github Pages
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v3
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+
+      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-git-committers-plugin-2
+
+      - run: mkdocs gh-deploy --force
