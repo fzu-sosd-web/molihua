@@ -13,6 +13,7 @@ nav:
     - git学习:
       - '说在前面': guide/git/before.md
       - '基础篇': guide/git/basic.md
+      - 'lab1': guide/git/pr.md
       - 'git常用操作': guide/git/ops.md
     - 移动开发学习:
       - '大概': guide/mobile/README.md
