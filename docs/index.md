@@ -23,3 +23,8 @@ molihua会是什么样的，取决于我们大家，非常欢迎大家加入我�
 - 不会使用git `||` 不会这个doc框架？
   
 没关系，你可以在`关于我们`找到我们实验室维护这个平台的同学的邮箱，发送你的诉求，我们会帮你进行相关的操作。
+
+## 贡献者
+<a href="https://github.com/Fzu-SOSD-Lab/molihua/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Fzu-SOSD-Lab/molihua" />
+</a>
