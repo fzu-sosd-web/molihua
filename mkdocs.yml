@@ -89,3 +89,4 @@ plugins:
   - git-committers:
       repository: Fzu-SOSD-Lab/molihua
       branch: main
+      enabled: !ENV [CI, false]
