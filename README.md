@@ -16,7 +16,7 @@ molihua(茉莉花)原本是SOSD内网的一个wiki知识库系统，是我们内
 
 molihua会是什么样的，取决于大家，非常欢迎大家加入我们，共同维护这个平台。
 
-[molihua.wiki](https://molihua.wiki/)
+网址：[molihua.wiki](https://molihua.wiki/)
 
 ## 贡献者
 
