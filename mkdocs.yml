@@ -21,8 +21,12 @@ nav:
     - cs-internal/README.md
   - 技术博客:
     - dev-blog/README.md
-    - 'open-telemetry':
-      - "luke's research": dev-blog/open-telemetry/research-20240112.md
+    - 'web组':
+      - 'luke':
+        - 'Self Introduce': dev-blog/web/luke/README.md
+        - 'open-telemetry': dev-blog/web/luke/open-telemetry/research-20240112.md
+        - 'cglib': dev-blog/web/luke/cglib/basic-use.md
+        
 
   - 面试经验: 
     - interview/README.md
