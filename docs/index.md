@@ -26,7 +26,10 @@ molihua会是什么样的，取决于大家，非常欢迎大家加入我们，�
 
 !!! success "如果你觉得molihua不错，欢迎在github上给我们点个star哦 [star](https://github.com/Fzu-SOSD-Lab/molihua)" 
 
-## 贡献者
-<a href="https://github.com/Fzu-SOSD-Lab/molihua/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Fzu-SOSD-Lab/molihua" />
+## Contributors
+
+As always, thanks to our amazing contributors!
+
+<a href="https://github.com/Fzu-SOSD-lab/molihua/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Fzu-SOSD-lab/molihua" />
 </a>
