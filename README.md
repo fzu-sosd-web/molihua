@@ -18,7 +18,7 @@ molihua会是什么样的，取决于大家，非常欢迎大家加入我们，�
 
 [molihua.wiki](https://molihua.wiki/)
 
-## Contributors
+## 贡献者
 
 As always, thanks to our amazing contributors!
 
