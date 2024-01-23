@@ -27,6 +27,7 @@ nav:
         - 'open-telemetry': dev-blog/web/luke/open-telemetry/research-20240112.md
         - 'cglib': dev-blog/web/luke/cglib/basic-use.md
       - 'stephenJun':
+        - 'Self Introduce': dev-blog/web/stephenJun/README.md
         - 'docker': dev-blog/web/stephenJun/docker/关于下载docker服务.md
       - 'flyingpig':
         - 'Self Introduce': dev-blog/web/flyingpig/README.md
