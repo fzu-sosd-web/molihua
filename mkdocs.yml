@@ -1,41 +1,42 @@
-site_name: '茉莉花molihua'
+site_name: "茉莉花molihua"
 site_author: sosd-luke
-site_description: 'molihua-SOSD的知识分享平台'
+site_description: "molihua-SOSD的知识分享平台"
 # Repository
 repo_name: Fzu-SOSD-Lab/molihua
 repo_url: https://github.com/Fzu-SOSD-Lab/molihua
 
 nav:
-  - 'molihua': index.md
+  - "molihua": index.md
   - 关于我们: about.md
-  - 学习路线: 
-    - guide/README.md
-    - git学习:
-      - '说在前面': guide/git/before.md
-      - '基础篇': guide/git/basic.md
-      - 'lab1': guide/git/pr.md
-      - 'git常用操作': guide/git/ops.md
-    - 移动开发学习:
-      - '大概': guide/mobile/README.md
-  - 计算机内功: 
-    - cs-internal/README.md
+  - 学习路线:
+      - guide/README.md
+      - git学习:
+          - "说在前面": guide/git/before.md
+          - "基础篇": guide/git/basic.md
+          - "lab1": guide/git/pr.md
+          - "git常用操作": guide/git/ops.md
+      - 移动开发学习:
+          - "大概": guide/mobile/README.md
+      - 前端开发学习:
+          - "大概": guide/front-end/Front-end.md
+  - 计算机内功:
+      - cs-internal/README.md
   - 技术博客:
-    - dev-blog/README.md
-    - 'web组':
-      - 'luke':
-        - 'Self Introduce': dev-blog/web/luke/README.md
-        - 'open-telemetry': dev-blog/web/luke/open-telemetry/research-20240112.md
-        - 'cglib': dev-blog/web/luke/cglib/basic-use.md
-      - 'stephenJun':
-        - 'Self Introduce': dev-blog/web/stephenJun/README.md
-        - 'docker': dev-blog/web/stephenJun/docker/关于下载docker服务.md
-      - 'flyingpig':
-        - 'Self Introduce': dev-blog/web/flyingpig/README.md
-        - '开发中需要防止用户哪些骚操作': dev-blog/web/flyingpig/开发中需要防止用户哪些骚操作/开发中需要防止用户哪些骚操作.md
+      - dev-blog/README.md
+      - "web组":
+          - "luke":
+              - "Self Introduce": dev-blog/web/luke/README.md
+              - "open-telemetry": dev-blog/web/luke/open-telemetry/research-20240112.md
+              - "cglib": dev-blog/web/luke/cglib/basic-use.md
+          - "stephenJun":
+              - "Self Introduce": dev-blog/web/stephenJun/README.md
+              - "docker": dev-blog/web/stephenJun/docker/关于下载docker服务.md
+          - "flyingpig":
+              - "Self Introduce": dev-blog/web/flyingpig/README.md
+              - "开发中需要防止用户哪些骚操作": dev-blog/web/flyingpig/开发中需要防止用户哪些骚操作/开发中需要防止用户哪些骚操作.md
 
-
-  - 面试经验: 
-    - interview/README.md
+  - 面试经验:
+      - interview/README.md
 
 extra:
   analytics:
@@ -53,8 +54,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: 'assets/logo-white.png'
-  favicon: 'assets/icon.png'
+  logo: "assets/logo-white.png"
+  favicon: "assets/icon.png"
   name: material
   highlightjs: true
   hljs_languages:
