@@ -1,3 +1,14 @@
+---
+authors:
+  - stephenJun 
+date: 2024-02-02
+tags:
+  - docker
+categories:
+  - Docker
+  - 运维
+---
+
 # 安装docker
 ## 完整脚本
     sudo apt update 
@@ -11,6 +22,9 @@
     
     sudo apt update 
     sudo apt install docker-ce docker-ce-cli containerd.io -y
+
+<!-- more -->
+
 ### 1. 先使用命名去更新软件包索引
 
     sudo apt update

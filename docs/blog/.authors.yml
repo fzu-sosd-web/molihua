@@ -1,0 +1,16 @@
+authors:
+  luke:
+    name: 魏知乐        # Author name
+    description: sosd web admin # Author description
+    avatar: https://avatars.githubusercontent.com/u/94302726      # Author avatar
+    url: /blog/author/web/luke/            # Author website URL
+  stephenJun:
+    name: 严文骏
+    description: sosd web Assessment members
+    avatar: https://avatars.githubusercontent.com/u/119308964 
+    url: /blog/author/web/stephenJun/    
+  flyingpig:
+    name: 朱嘉翔
+    description: sosd web Assessment members
+    avatar: https://avatars.githubusercontent.com/u/117554874
+    url: /blog/author/web/flyingpig/         
