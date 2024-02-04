@@ -625,3 +625,10 @@ public MessageConverter jsonMessageConverter(){
     return new Jackson2JsonMessageConverter();
 }
 ```
+
+六. 消息队列的可靠性
+-----------
+
+这里我做一下简单总结，具体内容可以依据对应的内容去看视频或者博客。
+
+![](https://img-blog.csdnimg.cn/direct/3bdbe0a52e654663bb64ad065348f44a.png)
