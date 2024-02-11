@@ -1,6 +1,19 @@
+---
+authors:
+  - luke 
+date: 2024-02-02
+tags:
+  - CGlib
+categories:
+  - Java
+  - Reflection
+---
+
 # CGLIB——简单使用
 
 在Java中，CGLIB（Code Generation Library）是一个功能强大的代码生成库，它可以在运行时生成字节码，常被用于实现动态代理。
+
+<!-- more -->
 
 ## MethodInterceptor
 

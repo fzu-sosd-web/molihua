@@ -22,21 +22,7 @@ nav:
   - 计算机内功:
       - cs-internal/README.md
   - 技术博客:
-      - dev-blog/README.md
-      - "web组":
-          - "luke":
-              - "Self Introduce": dev-blog/web/luke/README.md
-              - "open-telemetry": dev-blog/web/luke/open-telemetry/research-20240112.md
-              - "cglib": dev-blog/web/luke/cglib/basic-use.md
-          - "stephenJun":
-              - "Self Introduce": dev-blog/web/stephenJun/README.md
-              - "docker": dev-blog/web/stephenJun/docker/关于下载docker服务.md
-          - "flyingpig":
-              - "Self Introduce": dev-blog/web/flyingpig/README.md
-              - "开发中需要防止用户哪些骚操作": dev-blog/web/flyingpig/开发中需要防止用户哪些骚操作/开发中需要防止用户哪些骚操作.md
-
-  - 面试经验:
-      - interview/README.md
+      - blog/index.md
 
 extra:
   analytics:
@@ -128,3 +114,9 @@ plugins:
       repository: Fzu-SOSD-Lab/molihua
       branch: main
       enabled: !ENV [CI, false]
+  - blog:
+      blog_toc: true
+      post_excerpt: required
+      archive: false
+      categories_name: 技术栈分类
+      pagination_per_page: 5
