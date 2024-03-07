@@ -1,7 +1,7 @@
 ---
 authors:
   - 3zhuyuning
-date: 2024-03-7
+date: 2024-03-07
 tags:
   - Vue
   - Pinia
@@ -11,6 +11,7 @@ categories:
 
 
 # Pinia学习笔记
+<!-- more -->
 - [Pinia学习笔记](#pinia学习笔记)
   - [前前前言](#前前前言)
   - [什么是Pinia](#什么是pinia)
@@ -25,14 +26,11 @@ categories:
       - [向 getter 传递参数](#向-getter-传递参数)
     - [Action部分](#action部分)
   - [该笔记中用到所有例子整合的index.js文件代码](#该笔记中用到所有例子整合的indexjs文件代码)
-<!-- more -->
+
 ## 前前前言
 该学习笔记只最粗略的讲述Pinia的各项功能应如何实现，**所有想法观点仅代表个人理解，不一定百分百正确**，笔记中使用的代码均使用过或来自官方文档(部分代码来自ChatGpt)，且官方代码诸如变量的命名均已修改为我之前使用的样例一致，结尾的index.js文件代码复制即用，但是如有报错别骂我，我心里脆弱，可能是哪里cv错了
 ## 什么是Pinia
 在迎来Vue3的更新后，Pinia是尤雨溪强推的一个项目，与Vue2时期的VueX相比，Pinia使用起来更为简便,以下是Vue官方对Pinia的介绍：
-
-
-
 
 > Pinia 是 Vue 的专属状态管理库，它允许你跨组件或页面共享状态。
 
