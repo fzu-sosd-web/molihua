@@ -19,7 +19,7 @@
 ---
 authors:
     - "你在第一步中写的配置项中你的id" 
-date: 发表时间
+date: 发表时间 # 格式: yyyy-MM-dd
 tags:
     # 会被搜索检索到
     # - CGlib 
